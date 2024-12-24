@@ -74,7 +74,7 @@
    */
 
   /* font-family */
-  --ff-poppins: 'Poppins', sans-serif;
+  --Playwrite-DE-Grund: 'Playwrite DE Grund', Rammetto One;
 
   /* font-size */
   --fs-1: 24px;
@@ -153,7 +153,7 @@ input, textarea {
 
 :focus { outline-color: var(--orange-yellow-crayola); }
 
-html { font-family: var(--ff-poppins); }
+html { font-family: var(--Playwrite-DE-Grund); }
 
 body { background: var(--smoky-black); }
 
