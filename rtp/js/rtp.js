@@ -132,8 +132,8 @@ for (let i = 0; i <= text.length; i++) {
         jam[i].innerText = '-';
         pola[i].style.background = '#dc3545';
         jambg[i].style.background = '#dc3545';
-        pola1[i].innerHTML = 'DISARANKAN';
+        pola1[i].innerHTML = 'RECOMMENDED';
         pola2[i].innerHTML = 'RTP GAME';
-        pola3[i].innerHTML = '50% KE ATAS';
+        pola3[i].innerHTML = '50% UP';
     }
 }
