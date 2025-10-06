@@ -1,6 +1,6 @@
 <?php
 // Directory to scan for software files
-$directory = __DIR__ . '/downloads';
+$directory = __DIR__ . '/dl';
 
 // File extensions allowed
 $allowed_extensions = ['zip', 'exe', 'pdf', 'rar', 'msi', 'docx'];
@@ -86,3 +86,4 @@ if (is_dir($directory)) {
 
 </body>
 </html>
+
